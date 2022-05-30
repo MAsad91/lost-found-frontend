@@ -1,0 +1,38 @@
+@import "~antd/dist/antd.css";
+
+.logo {
+  height: 32px;
+  margin: 16px;
+  background: rgba(255, 255, 255, 0.2);
+}
+
+.logo h5 {
+  color: white;
+  text-align: center;
+}
+
+.site-layout-sub-header-background {
+  background: #fff;
+}
+
+.site-layout-background {
+  background: #fff;
+}
+[data-theme="dark"] .site-layout-sub-header-background {
+  background: #141414;
+}
+
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  height: 100%;
+  width: 100%;
+} */
+
+/* .body-content {
+  margin-left: 25%;
+} */

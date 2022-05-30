@@ -1,0 +1,15 @@
+.container {
+  margin: 90px 0;
+}
+
+.card {
+  margin: 0 2%;
+}
+
+.lost-report {
+  border-bottom: 10px solid rgb(153, 10, 10);
+}
+
+.found-report {
+  border-bottom: 10px solid rgb(90, 226, 90);
+}
